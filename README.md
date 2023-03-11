@@ -7,3 +7,6 @@ this is My Movie List App (Similar to Todo App) using React.JS and Vite. For des
 - [React.JS](https://reactjs.org/) - Front End Library
 - [Vite](https://vitejs.dev/) - bundler
 - [Tailwind CSS](https://tailwindcss.com/) - Design
+
+## Live Demo
+[https://my-movie-list-app-no-backend.vercel.app/](https://my-movie-list-app-no-backend.vercel.app/)
