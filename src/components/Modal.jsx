@@ -8,7 +8,7 @@ const Modal = ({ setShowModal, addList, editList, movie, mode }) => {
     const [data, setData] = useState({
         title: editMode ? movie.title : null,
         stars: editMode ? movie.stars : 0,
-        date: editMode ? movie.date : new Date().toString(),
+        date: editMode ? movie.date : new Date().toISOString(),
     })
 
     const [showTitleInput, setShowTitleInput] = useState(true)
